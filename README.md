@@ -1,17 +1,15 @@
-# 💫 About Me:
-Hi there! I'm Luv, a passionate developer with expertise in both front-end and back-end technologies. <br>I specialize in HTML, CSS, React and JavaScript for front-end development, and Django for back-end development. 
-<br>I'm also proficient in C and Python programming languages.<br><br>Apart from coding, I have a keen interest in cybersecurity <br>and actively contribute to companies by identifying and reporting bugs.<br>
+# 💫 About Me
+Hi there! I'm Luv, a passionate developer with expertise in both front-end and back-end technologies. I specialize in HTML, CSS, React, and JavaScript for front-end development, and Django for back-end development. I'm also proficient in C and Python programming languages. Apart from coding, I have a keen interest in cybersecurity and actively contribute to companies by identifying and reporting bugs.
 
+# 💻 Tech Stack
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+  ## -> Languages
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="javascript" width="40" height="40"/>&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="javascript" width="40" height="40"/>
+  ## -> Frameworks/Libraries
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
+  ## ->Tools
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>&nbsp;&nbsp;    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;&nbsp; <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>&nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>&nbsp;&nbsp;  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0luv69&show_icons=true&locale=en&layout=compact" alt="0luv69" /></p>
