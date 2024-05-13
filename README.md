@@ -1,11 +1,5 @@
 # 💫 About Me
-<style>
-mark{
-    color:red;
-}
-</style>
-
-<mark>Hi there! I'm Luv,</mark> a passionate developer with expertise in both front-end and back-end technologies. I specialize in HTML, CSS, React, and JavaScript for front-end development, and Django for back-end development. I'm also proficient in C and Python programming languages. Apart from coding, I have a keen interest in cybersecurity and actively contribute to companies by identifying and reporting bugs.
+Hi there! I'm Luv, a passionate developer with expertise in both front-end and back-end technologies. I specialize in HTML, CSS, React, and JavaScript for front-end development, and Django for back-end development. I'm also proficient in C and Python programming languages. Apart from coding, I have a keen interest in cybersecurity and actively contribute to companies by identifying and reporting bugs.
 
 # 💻 Tech Stack
 
